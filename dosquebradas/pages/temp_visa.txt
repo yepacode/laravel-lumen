@@ -1,0 +1,12 @@
+<table>
+			<tr>
+				<!-- Visa --><input name="franquicia" type="hidden" value="0">
+				<input name="cuenta" type="hidden" value="C">
+				<td> <img alt="visa" onclick="form.franquicia.value='90';FAjax('../credibanco/index.php','cp_credibanco','','POST')" src="../credibanco/imagenes/visa_blanco.jpg" style="cursor: pointer"></td>
+				<td> <img alt="master" onclick="form.franquicia.value='91';FAjax('../credibanco/index.php','cp_credibanco','','POST')" src="../credibanco/imagenes/mastercard.png" style="cursor: pointer"></td>
+				<!--<td> <img src="../../credibanco/imagenes/electron.jpg" style="cursor:pointer" onClick="form.franquicia.value='90';form.cuenta.value='D';FAjax('../credibanco/index.php','cp_credibanco','','POST')"/> </td>
+				<td> <img src="../../credibanco/imagenes/amex.jpg" style="cursor:pointer" onClick="form.franquicia.value='30';FAjax('../credibanco/index.php','cp_credibanco','','POST')"/> </td>
+				<td> <img src="../../credibanco/imagenes/dinners.jpg"  style="cursor:pointer" onClick="form.franquicia.value='34';FAjax('../credibanco/index.php','cp_credibanco','','POST')"/> </td>
+				<td> <img src="../../credibanco/imagenes/credencial.png" style="cursor:pointer" onClick="form.franquicia.value='23';FAjax('../credibanco/index.php','cp_credibanco','','POST')"/> </td> -->
+			</tr>
+		</table>

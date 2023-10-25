@@ -1,0 +1,172 @@
+body {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	margin:0px;
+	padding:0px;
+}
+.fondo{
+background-color:#fff;
+}
+.pageLeft{
+	background-image:url(../images/bg1222.jpg);
+	 background-repeat:repeat-y;
+/*	 background-color:#C0C0C0;*/
+}
+.pageRigth{
+	background-image:url(../images/bg1223.jpg);
+	 background-repeat:repeat-y;
+}
+.caja{
+	border-collapse:collapse;
+	border:1px solid #000000;
+}
+.caja1{
+	border:1px solid #999999;
+}
+.titulo{
+	color:#000000;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:11px;
+	font-weight:bold;
+}
+.barraTitulo{	
+	background-color:#0057A0;
+	border:1px solid #BEBEBE;
+	height:18px;
+	padding-left:33px;
+	color:#fff;
+	font-size:12PX;
+	font-weight:bold;
+	text-align:left;
+}.cajaGris{
+	border:1px solid #BEBEBE;
+}
+table{
+	border-collapse:collapse;
+	background-color:#FFFFFF;
+}
+.btnLnk{
+	width:120px;
+	font-family:"Trebuchet MS";
+	font-size:10px;
+	background-color:#C6C6C6;
+	cursor:pointer;
+}
+.btnLnk:hover{
+	background-color:#DEDEDE;
+}
+.franja{
+	background-color:#D8D8D8;
+}
+.franja2{
+	color:#FFFFFF;
+}
+.btn{
+	background-color:#0057A0;
+	font-size:10px;
+	margin-right:5px;
+	cursor:pointer;
+	border:1px solid #000033;
+	color: #FFF;
+}
+.celda{
+	padding-left:10px;
+
+}
+.filaHead{
+	color:#990000;
+}
+.lnk{
+	color:#000066;
+	text-decoration:underline;
+	cursor:pointer;
+}
+.lnk:hover{
+	color:#0066CC;
+}
+.recibo_titulo{
+	font-weight:bold;
+}
+.recibo_titulo2{
+	font-size:8px;
+}
+ .num_factura{
+	width:150px;
+	text-decoration:underline;
+}
+.nota{
+	font-size:8px;
+	text-align:justify;
+	padding:4px; 
+}
+.lineaBottom{
+	border-bottom:1px solid #000;}
+.fondoGris{
+	background-color:#CCCCCC;
+} 
+#menu{
+	width:130px;
+	border:1px solid #00;
+	font-size:9px;
+} 
+.item{
+	height:20px;
+	padding:3px;
+	text-transform:uppercase;
+	color:#000;
+	cursor:pointer;
+	border:1px solid #fff;
+}
+.item:hover{
+	background-color:#666666;
+	color:#FFFFFF;
+}
+table{
+	border-collapse:collapse;
+}
+.texto {
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+}
+.fuenteRecibo{
+	font-size:8.5px;
+}
+.letraPq{
+	font-size:7px;
+}
+a{
+	font-family: Verdana, Geneva, sans-serif;
+	text-decoration: underline;	
+}
+a:hover{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #3E69BB;
+}
+.mensaje{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #00F;	
+}
+.newTitulo{
+	font-family: Georgia,"Times New Roman",Times,serif;
+	font-size:22px;
+	color:#0057A0;
+}
+.newsubTitulo{
+	font-family: Georgia,"Times New Roman",Times,serif;
+	font-size:22px;
+	font-weight:bold;
+	color:#0057A0;
+}
+.cuerpo{
+	font-size:14px;
+	float: left;
+	margin-left: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+	width: 450px;
+	background-position: left;
+	text-align:justify;
+}
